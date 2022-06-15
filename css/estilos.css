@@ -1,3 +1,22 @@
 body{
     background-color: rgb(77, 33, 117);
 }
+
+.perfil{
+    background-color: aqua;
+    width: 20rem;
+    padding: 2rem;
+    margin: 10rem auto;
+    text-align: center;
+}
+
+.perfil img{
+       border-radius: 100%;
+       border: 3px solid #fff;
+
+}
+
+.perfil p{
+       text-align: justify;
+
+}
