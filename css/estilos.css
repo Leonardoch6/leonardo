@@ -20,3 +20,23 @@ body{
        text-align: justify;
 
 }
+.perfil2{
+    background-color: rgb(221, 203, 44);
+    width: 20rem;
+    padding: 2rem;
+    margin: 10rem auto;
+    text-align: center;
+}
+
+.perfil2 img{
+       width: 80%;
+       height: 80%;
+       border-radius: 80%;
+       border: 3px solid rgb(92, 87, 87);
+
+}
+
+.perfil2 p{
+       text-align: justify;
+
+}
